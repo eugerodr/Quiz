@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="question" >Question</string>
+    <string name="check" >Check</string>
+    <string name="question_content">What is the capital of France?</string>
+    <string name="correct">Very good!</string>
+    <string name="incorrect">Incorrect...</string>
+
+
+    <array name="answers">
+        <item>Budapest</item>
+        <item>Amsterdam</item>
+        <item>Split</item>
+        <item>Paris</item>
+
+    </array>
+
+    <integer name="correct_answer">3</integer>
+</resources>
